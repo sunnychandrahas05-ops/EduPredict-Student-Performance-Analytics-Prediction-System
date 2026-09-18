@@ -1,0 +1,2 @@
+# EduPredict-Student-Performance-Analytics-Prediction-System
+EduPredict is a Python CLI tool that predicts student pass/fail outcomes and final scores using RandomForest classification and regression. Models use study hours, attendance, prior exam scores, and assignments submitted. It also provides SQLite-based CRUD for student records, model training, evaluation, live analytics, charts, and summary reports.
