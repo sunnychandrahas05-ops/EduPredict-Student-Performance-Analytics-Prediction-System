@@ -78,8 +78,8 @@ edupredict/
 ### 1. Clone and set up the environment
 
 ```bash
-git clone https://github.com/<github-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/sunnychandrahas05-ops/EduPredict-Student-Performance-Analytics-Prediction-System.git
+cd EduPredict-Student-Performance-Analytics-Prediction-System
 python3 -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
